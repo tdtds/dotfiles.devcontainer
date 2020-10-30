@@ -1,3 +1,14 @@
+[color]
+	ui = auto
 [user]
 	name = Tada, Tadashi
 	email = t@tdtds.jp
+[alias]
+	co = checkout
+	st = status --short --branch
+[color "diff"]
+	commit = blue
+	frag = black
+	branch = cat
+[push]
+	default = simple
