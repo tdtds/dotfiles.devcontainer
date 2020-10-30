@@ -9,6 +9,7 @@
 [color "diff"]
 	commit = blue
 	frag = black
+[pager]
 	branch = cat
 [push]
 	default = simple
